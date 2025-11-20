@@ -1,0 +1,198 @@
+{
+  "header": {
+    "advertorial": "Advertorial",
+    "healthWellness": "Health & Wellness",
+    "dailyHealthNews": "Dagliga Hälsonyheter"
+  },
+  "newsTicker": {
+    "messages": [
+      "Breaking: Nytt genombrott inom naturlig andningshälsa!",
+      "Tusentals rapporterar förbättrad andning med Lunavaris.",
+      "Revolutionerande lösning för lunghälsa nu tillgänglig.",
+      "100% naturliga ingredienser för bättre andningshälsa.",
+      "Gå med miljontals som har upptäckt lättare andning."
+    ]
+  },
+  "preloader": {
+    "loadingText": "Laddar din hälsoresa..."
+  },
+  "hero": {
+    "badge": "Senaste Nytt",
+    "title": "\"GENOMBROTT: Denna 100% naturliga inhalator har hjälpt tusentals människor att övervinna kroniska andningsproblem på bara 15 minuter per dag\"",
+    "subtitle": "Om du har andningsproblem, ständigt hostar, pipande andning, återkommande förkylningar eller kroniska luftvägssjukdomar, läs den här artikeln innan du gör något annat.",
+    "imageCaption": "Bild: Revolutionerande teknik för lungrensning"
+  },
+  "author": {
+    "name": "Läkare Johan K.",
+    "publishedDate": "Publicerad 10 november 2025",
+    "quote": "\"Det uppskattas att en miljard människor världen över lider av luftvägssjukdomar. Denna geniala inhalator kan vara den naturliga lösningen för att äntligen kunna andas fritt igen.\""
+  },
+  "article": {
+    "paragraph1": "\"Vi har äntligen hittat nyckeln till friska lungor.\" Så presenterade en ledande expert sin revolutionerande produkt, bara några veckor efter marknadslanseringen.",
+    "paragraph2": "Denna innovativa lösning har redan fått stor uppmärksamhet för sina kraftfulla, helt naturliga ingredienser som utlovar en hälsosam andning för alla med andningsproblem.",
+    "expertQuote": "\"Under min karriär har jag hjälpt mer än 2 000 patienter med ett brett spektrum av luftvägssjukdomar,\" förklarar en erfaren specialist.",
+    "conditions": [
+      "Andfåddhet, pipande andning",
+      "Säsongsbundna förkylningar",
+      "Kronisk och akut bronkit",
+      "KOL, bronkial astma"
+    ],
+    "heading1": "Andningsproblem förstör ditt liv",
+    "paragraph3": "Andningsproblem förstör ditt liv och berövar dig glädje, sömn och frihet. Specialister har i åratal bedrivit outtröttlig forskning, men en lösning som effektivt rengör lungorna verkade ouppnåelig.",
+    "paragraph4": "Men tidigare i år nådde de ett genombrott som skulle kunna förändra den moderna medicinen radikalt, rengöra dina lungor och se till att du för alltid kan andas fritt och hälsosamt.",
+    "heading2": "Den chockerande sanningen",
+    "paragraph5": "Idag är luften vi andas inte bara förorenad med damm, utan också med extremt farliga kemikalier. Alla dessa partiklar kommer in i våra lungor och gör att slemmet blir tjockare. De farliga partiklarna kan inte längre avlägsnas effektivt och börjar samlas och blockera luftvägarna.",
+    "warning": "Eteriska oljor, diffusorer, piller och till och med syrgasterapier löser inte problemet: de behandlar symptomen, inte orsaken.",
+    "heading3": "Vad är lösningen? Kungsljus!",
+    "paragraph6": "Basen är 100% naturlig kungsljus (Verbascum) – en bortglömd växt som redan i antikens Rom användes som ett anmärkningsvärt medel mot hälsoproblem.",
+    "benefits": [
+      {
+        "title": "Minska inflammation",
+        "description": "Verbaskosid har antiinflammatoriska och antibakteriella egenskaper."
+      },
+      {
+        "title": "Frigör luftvägarna",
+        "description": "Saponiner fungerar som naturliga slemlösare."
+      },
+      {
+        "title": "Läkande kraft",
+        "description": "Flavonoider minskar oxidativ stress och skyddar lungvävnad."
+      }
+    ],
+    "heading4": "Träffa den revolutionerande inhalatorn",
+    "paragraph7": "Inhalatorn för extraktet direkt till lungorna. Detta kringgår matsmältningskanalen, vilket gör att de aktiva ingredienserna tas upp direkt genom luftvägarna för omedelbar effekt.",
+    "paragraph8": "Denna slemrensare har hjälpt tusentals människor att lösa upp fastsittande slem och kunna andas fritt igen."
+  },
+  "testimonials": {
+    "heading": "Vad säger våra användare?",
+    "verifiedBuyer": "Verifierad köpare",
+    "verifiedResult": "Verifierat Resultat:",
+    "items": [
+      {
+        "name": "Emma",
+        "age": 65,
+        "date": "12 november 2025",
+        "location": "Sverige",
+        "content": [
+          "Jag trodde inte att det skulle fungera … men det gjorde det!",
+          "Som någon som har problem med att andas under sömnen och lider av allvarlig andnöd känner jag väl till den stress som dessa symtom medför. Efter veckor av lidande rekommenderade min läkare denna naturliga lösning.",
+          "Jag hade inga höga förväntningar, men efter första användningen märkte jag en drastisk förändring: efter fem minuter började jag hosta, men sedan insåg jag att jag hostade upp slem! Och herregud, jag andades friare än jag gjort på åratal.",
+          "Efter en månad kan jag lugnt säga att jag andas lika lätt och fritt som ett barn."
+        ],
+        "image": "https://img.funnelish.com/96170/0/1763468319-1751119925-1734607173-1726494356-Untitled%20design%20-%202024-09-16T214455.288.webp",
+        "verifiedImage": "https://img.funnelish.com/96170/0/1763471288-1751119933-1731503614-download%20%285%29.webp"
+      },
+      {
+        "name": "Caral",
+        "age": 62,
+        "date": "12 november 2025",
+        "location": "Sverige",
+        "content": [
+          "Jag kan fortfarande inte tro det, men jag kan återigen andas fritt.",
+          "Jag slutade röka för ungefär fem månader sedan men hade fortfarande återkommande hostattacker. Dessutom hade jag svår bihåleinflammation. Ärligt talat märkte jag en skillnad redan efter en dag.",
+          "Nu, efter tre veckors daglig användning, känner jag mig nästan helt befriad. Min näsa rinner knappt längre, jag har inte hostat på veckor och jag kan äntligen andas fritt genom båda näsborrarna."
+        ],
+        "image": "https://img.funnelish.com/96170/0/1763469639-1751120037-1734788110-1727074131-1725384985-adv%20mul4.webp",
+        "verifiedImage": "https://img.funnelish.com/96170/0/1763471328-1751119938-1731503655-download%20%286%29.webp"
+      },
+      {
+        "name": "Paul",
+        "age": 58,
+        "date": "12 november 2025",
+        "location": "Sverige",
+        "title": "En livsförändrande transformation",
+        "content": [
+          "Jag har tillbringat större delen av mitt arbetsliv inom byggbranschen och har ständigt utsatts för damm, vilket så småningom ledde till KOL. Att gå i trappor blev en utmaning.",
+          "Inom en vecka med denna inhalator märkte jag en förändring: min andning blev lugnare. Efter sju veckor kan jag återigen promenera och leka med mina barn utan att flämta."
+        ],
+        "image": "https://img.funnelish.com/96170/0/1763469645-1751120031-1749621824-Screenshot%202025-06-11%20140324.webp",
+        "verifiedImage": ""
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Vanliga frågor",
+    "items": [
+      {
+        "question": "Hur tar jag Lunavaris®?",
+        "answer": "Ta 2 kapslar per dag med vatten, helst på morgonen tillsammans med mat för att säkerställa bästa upptag."
+      },
+      {
+        "question": "När kommer jag att märka resultat?",
+        "answer": "De flesta användare känner sig mer energiska inom 7 dagar, när matsmältningen förbättras och immunförsvaret stärks."
+      },
+      {
+        "question": "Är Lunavaris® säker för långtidsanvändning?",
+        "answer": "Ja, den innehåller naturliga ingredienser och är kliniskt testad som säker för daglig långtidsanvändning."
+      },
+      {
+        "question": "Hur länge bör jag använda Lunavaris®-produkten?",
+        "answer": "För full förebyggande effekt och stöd för kroppen rekommenderas att använda produkten i 4 månader, varefter det är bra att ta en kort paus."
+      },
+      {
+        "question": "Hjälper det mot parasiter och virus?",
+        "answer": "Absolut. Lunavaris® är utvecklat för att bekämpa parasiter och virus samt stödja en frisk tarmflora och ett starkt immunsystem."
+      }
+    ]
+  },
+  "cta": {
+    "countdownLabel": "Erbjudandet slutar om",
+    "heading": "Börja din resa mot fri andning idag",
+    "subtitle": "Upptäck hur tusentals människor har förbättrat sin livskvalitet med denna naturliga lösning.",
+    "urgencyText": "På grund av det stora antalet beställningar finns det stor risk för att varan tar slut. Köp nu medan den finns i lager!",
+    "lowStock": "⚠️ Lågt lager: Endast 17 st kvar!",
+    "buttonText": "BESTÄLL LUNAVARIS NU",
+    "buttonSubtext": "30-dagars nöjd-kund-garanti",
+    "guarantee": "30-dagars Garanti",
+    "securePayment": "SSL Säker Betalning"
+  },
+  "sidebar": {
+    "header": "Rekommenderas av experter",
+    "rating": "4.8/5",
+    "discount": "-50% RABATT",
+    "benefits": [
+      "Snabb lindring på 15 min",
+      "100% Naturliga ingredienser",
+      "Slemrensande effekt"
+    ],
+    "countdownLabel": "Erbjudandet slutar:",
+    "lowStock": "🔥 Lågt lager: Endast 17 st kvar!",
+    "buttonText": "Köp Nu",
+    "guarantee": "30-dagars Pengarna Tillbaka Garanti",
+    "securePayment": "Säker Betalning (SSL)"
+  },
+  "footer": {
+    "description": "Vi erbjuder naturliga lösningar för bättre andningshälsa. Vår mission är att hjälpa människor att andas fritt och leva hälsosammare liv.",
+    "links": {
+      "heading": "Länkar",
+      "items": [
+        "Om oss",
+        "Kontakt",
+        "Integritetspolicy",
+        "Villkor"
+      ]
+    },
+    "contact": {
+      "heading": "Kontakt",
+      "email": "help@lunavaris.com",
+      "hours": "Mån-Fre: 09:00 - 17:00"
+    },
+    "disclaimer": {
+      "heading": "Disclaimer",
+      "text": "Denna produkt är inte avsedd att diagnostisera, behandla, bota eller förebygga någon sjukdom. Rådfråga alltid en läkare innan du börjar använda nya produkter."
+    },
+    "copyright": "© 2025 Lunavaris. Alla rättigheter förbehållna."
+  },
+  "mobile": {
+    "ctaButton": "Beställ Nu"
+  },
+  "altTexts": {
+    "logo": "Lunavaris",
+    "productDemo": "Produktdemonstration",
+    "doctor": "Läkare",
+    "lungs": "Lungs",
+    "inhaler": "Inhaler",
+    "beforeAfter": "Before After"
+  }
+}
+
